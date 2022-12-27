@@ -1,0 +1,8 @@
+{
+    "editor.fontSize": 15,
+    "files.autoSave": "off",
+    "editor.tabSize": 4,
+    "editor.minimap.size": "proportional",
+    "scm.inputFontSize": 13,
+    "workbench.sash.size": 4
+}
